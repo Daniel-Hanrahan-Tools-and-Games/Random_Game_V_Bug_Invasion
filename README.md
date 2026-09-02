@@ -1,5 +1,5 @@
 # Random_Game_V_Bug_Invasion
-a cancelled ROM hack for Super Mario World that is a crossover between SMW and my video game Bug Invasion.
+A cancelled ROM hack for Super Mario World that is a crossover between SMW and my video game Bug Invasion.
 
 2 Closed Source applications that is necessary is Lunar Magic and YYCHR.
 
