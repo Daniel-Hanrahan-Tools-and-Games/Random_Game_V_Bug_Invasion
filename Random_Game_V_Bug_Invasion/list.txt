@@ -1,0 +1,12 @@
+01 red_bullet.cfg
+02 yellow_bullet.cfg
+03 green_bullet.cfg
+04 blue_bullet.cfg
+05 red_enemy.cfg
+06 yellow_enemy.cfg
+07 green_enemy.cfg
+08 blue_enemy.cfg
+09 red_bullet_powerup.cfg
+0A yellow_bullet_powerup.cfg
+0B green_bullet_powerup.cfg
+0C blue_bullet_powerup.cfg
