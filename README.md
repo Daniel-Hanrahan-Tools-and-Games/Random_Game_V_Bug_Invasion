@@ -6,7 +6,7 @@ A cancelled ROM hack for Super Mario World that is a crossover between SMW and m
 Open Source appications you need:
 1.ASAR assembler
 2.PIXI Custom Sprite Inserter
-3.unix2dos, converts text file endings from unix format to dos format which is necessary for .cfg files, which are one of the types of files the compiler needs
+3.unix2dos, converts text file endings from unix format to dos format which is necessary for .cfg files, which are one of the types of files the assembler needs
 4.FLIPS for creating the soft patch
 5.bsnes, The SNES Emulator that can do soft patches
 
