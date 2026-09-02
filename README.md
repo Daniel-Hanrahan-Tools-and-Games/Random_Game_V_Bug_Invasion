@@ -29,7 +29,7 @@ Canceled- archived, not maintained. The project is incomplete and is provided as
 
 
 Original Intent:
-this project was intented to be a crossover ROM hack combining Super Mario World and my original game Bug Invasion and inspire anyone to make crossover rom hacks between any game they choose that they owned a copy of and Bug Invasion. Development was discontinued before what was needed was completed. This Repo only contains the source code, artwork, custom palette for sprites and the files needed for compiling the project. Everything in here were originated by me, I am not affiliated with Nintendo in any way shape or form. Forks of this project may continue development if they so choose. The patch I was trying to create here was a soft patch. The licensing in this repo here only applies the things here in this repository.
+this project was intented to be a crossover ROM hack combining Super Mario World and my original game Bug Invasion and inspire anyone to make crossover rom hacks between any game they choose that they owned a copy of and Bug Invasion. Development was discontinued before what was needed was completed. This Repo only contains the source code, artwork, custom palette for sprites and the files needed for compiling the project. Everything in here were originated by me, I am not affiliated with Nintendo in any way shape or form. Forks of this project may continue development if they so choose. The patch I was trying to create here was a soft patch. The licensing in this repo here only applies the files here in this repository.
 
 
 Prerequisites after having all applications:
